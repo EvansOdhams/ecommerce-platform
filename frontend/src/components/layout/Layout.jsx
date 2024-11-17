@@ -7,7 +7,7 @@ const Layout = ({ children }) => {
       <header className="bg-white shadow-sm">
         <nav className="container mx-auto px-4 py-3">
           <div className="flex justify-between items-center">
-            <h1 className="text-xl font-bold">Our Store</h1>
+            <h1 className="text-xl font-bold">UZA</h1>
             <div className="space-x-4">
               <button className="text-gray-600 hover:text-gray-900">Home</button>
               <button className="text-gray-600 hover:text-gray-900">Products</button>
