@@ -20,14 +20,14 @@ const HomePage = () => {
       name: "Awesome T-Shirt",
       price: 24.99,
       description: "100% cotton casual t-shirt",
-      image: "/api/placeholder/200/200"
+      image: assets.t_shirt
     },
     {
       id: 3,
       name: "Stylish Hat",
       price: 19.99,
       description: "Classic baseball cap",
-      image: "/api/placeholder/200/200"
+      image: assets.hat
     }
   ];
 
